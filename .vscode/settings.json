@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.quickSuggestionsDelay": 0,
+    "emmet.preferences": {
+
+    }
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+
+}
