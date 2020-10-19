@@ -1,4 +1,4 @@
-Click to go to Amazon Clone --> https://challenge-c5837.web.app/
+Click to go to Amazon Clone --> https://challenge-c5837.web.app/                                                                                                    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
